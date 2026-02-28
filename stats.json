@@ -1,0 +1,40 @@
+{
+  "fecha_generacion": "2026-02-28T11:18:51.444152",
+  "total_paginas": 2400,
+  "idiomas": [
+    "en",
+    "es",
+    "de",
+    "fr",
+    "pt",
+    "it"
+  ],
+  "categorias": [
+    "matematicas",
+    "fisica",
+    "quimica",
+    "biologia",
+    "ingenieria",
+    "ingenieria_alimentos",
+    "recetas_cocina",
+    "deportes",
+    "estilo_vida",
+    "noticias",
+    "foros_discusion",
+    "redes_sociales",
+    "viajes_turismo",
+    "negocios_emprendimiento",
+    "tecnologia",
+    "salud_bienestar"
+  ],
+  "total_categorias": 16,
+  "paginas_por_idioma": {
+    "en": 400,
+    "es": 400,
+    "de": 400,
+    "fr": 400,
+    "pt": 400,
+    "it": 400
+  },
+  "keywords_totales": 26820
+}
