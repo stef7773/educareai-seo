@@ -1,5 +1,5 @@
 {
-  "fecha_generacion": "2026-02-28T11:18:51.444152",
+  "fecha_generacion": "2026-02-28T12:36:32.581211",
   "total_paginas": 2400,
   "idiomas": [
     "en",
@@ -26,15 +26,5 @@
     "negocios_emprendimiento",
     "tecnologia",
     "salud_bienestar"
-  ],
-  "total_categorias": 16,
-  "paginas_por_idioma": {
-    "en": 400,
-    "es": 400,
-    "de": 400,
-    "fr": 400,
-    "pt": 400,
-    "it": 400
-  },
-  "keywords_totales": 26820
+  ]
 }

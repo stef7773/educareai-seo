@@ -1,9 +1,3 @@
 User-agent: *
 Allow: /
-Disallow: /admin/
-Disallow: /private/
-
 Sitemap: file:///home/stefano/EducareAI_Project/web_seo_global/sitemap.xml
-Host: https://educareai.app
-
-# Crawl-delay: 1
